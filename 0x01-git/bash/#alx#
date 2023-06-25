@@ -1,0 +1,6 @@
+`#!/bin/bash`
+`echo "ALX"`
+`Y` yes
+`:wq`
++x
+exit
